@@ -7,4 +7,4 @@ Next, I wrote programs for some of the more advanced mathematical processes used
 
 The main function is designed to demonstrate the functions working together.
 
-This is designed purely to explore the mathemtacal theory behind RSA encryption using Python rather than to actually securely encrypt messages.  It would require several more layers (offsetting the alphabet a la Julius Caesar by "random" number would be an easy first one, hash functions would also be very easy) of encryption to be even a little bit effective.
+This is designed purely to explore the mathemtacal theory behind RSA encryption using Python rather than to actually securely encrypt messages.  It would require several more layers (assigning two sets of keys for message and picking one at random for each letter or word, for example) of encryption to be even a little bit effective.
